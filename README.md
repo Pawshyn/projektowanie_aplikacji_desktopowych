@@ -1,0 +1,2 @@
+# projektowanie_aplikacji_desktopowych
+Pracownia projektowania aplikacji desktopowych
